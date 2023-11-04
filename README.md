@@ -25,7 +25,7 @@ Puedes contactarte conmigo por aquí:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Postman](https://img.shields.io/badge/-Postman-430098?style=flat-square&logo=postman)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
