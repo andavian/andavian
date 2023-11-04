@@ -6,7 +6,7 @@ Soy un entusiasta de la tecnología, de la web 3.0 y defensor de la Blockchain. 
 
 Puedes contactarte conmigo por aquí:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inganibalelbaum)](https://www.linkedin.com/in/inganibalelbaum)
+[![Linkedin Badge](https://img.shields.io/badge/-ing.elbaum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inganibalelbaum)](https://www.linkedin.com/in/inganibalelbaum)
 [![Telegram Badge](https://img.shields.io/badge/-AnibalElbaum-darkblue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/AnibalElbaum)](https://t.me/AnibalElbaum)
 [![Twitter Badge](https://img.shields.io/badge/-AnibalElbaum-lightblue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AnibalElbaum)](https://twitter.com/AnibalElbaum)
 [![Gmail Badge](https://img.shields.io/badge/-ing.elbaum@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.elbaum@gmail.com)](mailto:ing.elbaum@gmail.com)
